@@ -32,7 +32,7 @@ jsonpointer==2.4
 jsonschema
 jsonschema-specifications
 kiwisolver==1.4.5
-langchain==0.0.330
+langchain
 langsmith==0.0.57
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
