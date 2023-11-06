@@ -36,10 +36,10 @@ langchain
 markdown-it-py
 MarkupSafe==2.1.3
 marshmallow
-matplotlib==3.8.1
-mdurl==0.1.2
+matplotlib
+mdurl
 multidict==6.0.4
-mypy-extensions==1.0.0
+mypy-extensions
 numpy==1.26.1
 openai==0.28.1
 packaging==23.2
