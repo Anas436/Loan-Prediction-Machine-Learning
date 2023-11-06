@@ -58,7 +58,7 @@ PyYAML==6.0.1
 referencing
 requests
 rich
-scikit-learn
+scikit-learn==1.3.2
 scipy
 seaborn
 six
