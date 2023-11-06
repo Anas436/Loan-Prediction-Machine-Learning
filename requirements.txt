@@ -17,7 +17,7 @@ cycler
 dataclasses-json==0.6.1
 decouple==0.0.7
 Flask
-fonttools==4.44.0
+fonttools
 frozenlist==1.4.0
 gitdb==4.0.11
 GitPython==3.1.40
